@@ -27,6 +27,7 @@ public class Minimum_String_Length_After_Removing_Substrings {
 		}else {
 			st.push(c);
 		}}
+		
 	
 		
 		return st.size();
